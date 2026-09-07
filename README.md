@@ -1,5 +1,7 @@
 <div align="center">
 
+![Facebook Giveaway Analyzer](docs/banner.jpg)
+
 # 🚀 Facebook Giveaway Analyzer
 
 **A production-ready Node.js tool for scraping Facebook comments & analyzing giveaway contests**
