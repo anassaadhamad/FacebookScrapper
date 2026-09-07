@@ -1,0 +1,12 @@
+{
+  "maxComments": 1000,
+  "headless": true,
+  "scrollDelayMin": 1000,
+  "scrollDelayMax": 2500,
+  "clickDelayMin": 800,
+  "clickDelayMax": 1800,
+  "maxScrollAttemptsWithoutNewComments": 10,
+  "outputDir": "./results",
+  "viewMoreSelector": "text=/View (more|previous) comments|See more comments/i",
+  "viewRepliesSelector": "text=/View \\d+ (more )?(reply|replies)/i"
+}

@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Sensitive / local files
+cookies.json
+config.json
+.env
+*.log
+
+# Scraping results (large files — demo-data.json in dashboard/ IS committed)
+results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/

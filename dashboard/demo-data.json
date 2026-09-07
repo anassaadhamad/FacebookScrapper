@@ -1,0 +1,1623 @@
+{
+  "totalCommentsScraped": 5503,
+  "totalUniqueCommenters": 2158,
+  "topCommenter": {
+    "authorId": "nermeen.rohaym",
+    "authorName": "Nermeen Rohaym",
+    "commentCount": 1314
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "commentCount": 1314,
+      "profileUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNTcyNjA3OTcwNDg2ODY%3D&__tn__=R"
+    },
+    {
+      "rank": 2,
+      "authorId": "aya.mohammed.6807",
+      "authorName": "Aya Mohammed",
+      "commentCount": 296,
+      "profileUrl": "https://www.facebook.com/aya.mohammed.6807?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzOTk4Nzg4NjIxMDU0NTc%3D&__tn__=R"
+    },
+    {
+      "rank": 3,
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "commentCount": 292,
+      "profileUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE0MDI5MTk0NTg2MDUyMTU%3D&__tn__=R"
+    },
+    {
+      "rank": 4,
+      "authorId": "100077597533962",
+      "authorName": "HaNin Abdelbast",
+      "commentCount": 245,
+      "profileUrl": "https://www.facebook.com/profile.php?id=100077597533962&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNzM2NjE4NTgxOTAwNzg%3D&__tn__=R"
+    },
+    {
+      "rank": 5,
+      "authorId": "haidy.hany.90834",
+      "authorName": "Haidy Hany",
+      "commentCount": 218,
+      "profileUrl": "https://www.facebook.com/haidy.hany.90834?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM1NjU5MjgxNDAyMzEwODE%3D&__tn__=R"
+    },
+    {
+      "rank": 6,
+      "authorId": "lolo.aboualmaty",
+      "authorName": "Laila Abed",
+      "commentCount": 196,
+      "profileUrl": "https://www.facebook.com/lolo.aboualmaty?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3ODQ4MTc4MDkyNTExODc%3D&__tn__=R"
+    },
+    {
+      "rank": 7,
+      "authorId": "amira.m.elzeiny",
+      "authorName": "Amira M Elzeiny",
+      "commentCount": 176,
+      "profileUrl": "https://www.facebook.com/amira.m.elzeiny?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2NjQzODc2MDIzNTQ3MTU%3D&__tn__=R"
+    },
+    {
+      "rank": 8,
+      "authorId": "wafaa.amer.96558",
+      "authorName": "Wafaa Amer",
+      "commentCount": 139,
+      "profileUrl": "https://www.facebook.com/wafaa.amer.96558?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2MTk4NjQ1Njk4NTI1NjY%3D&__tn__=R"
+    },
+    {
+      "rank": 9,
+      "authorId": "kholoud.mohammed.9699523",
+      "authorName": "Kholoud Mohammed",
+      "commentCount": 46,
+      "profileUrl": "https://www.facebook.com/kholoud.mohammed.9699523?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NTg1NjI5MjI0Mzg3MTE%3D&__tn__=R"
+    },
+    {
+      "rank": 10,
+      "authorId": "ayt.smyh.784304",
+      "authorName": "آية سميح",
+      "commentCount": 40,
+      "profileUrl": "https://www.facebook.com/ayt.smyh.784304?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NDc5MjE1NTczNzg3OTM%3D&__tn__=R"
+    },
+    {
+      "rank": 11,
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "commentCount": 37,
+      "profileUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3MTMzMTEzNDMyNTczNzQ%3D&__tn__=R"
+    },
+    {
+      "rank": 12,
+      "authorId": "zainab.e.barkat",
+      "authorName": "Zainab E. Barkat",
+      "commentCount": 28,
+      "profileUrl": "https://www.facebook.com/zainab.e.barkat?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzODc5MDQwMTAxNjQwNzg%3D&__tn__=R"
+    },
+    {
+      "rank": 13,
+      "authorId": "fatmam.salim.3",
+      "authorName": "Fátmà M Sálèm",
+      "commentCount": 23,
+      "profileUrl": "https://www.facebook.com/fatmam.salim.3?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2NDI0NjYwOTc4ODY0NTc%3D&__tn__=R"
+    },
+    {
+      "rank": 14,
+      "authorId": "rwna.adl.650014",
+      "authorName": "Rona Adle",
+      "commentCount": 20,
+      "profileUrl": "https://www.facebook.com/rwna.adl.650014?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1ODkxNzQ4NzI5NTU5MzA%3D&__tn__=R"
+    },
+    {
+      "rank": 15,
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "commentCount": 16,
+      "profileUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxMzU4OTQwNjAzNjQ3MTQ%3D&__tn__=R"
+    },
+    {
+      "rank": 16,
+      "authorId": "om.aya.703044",
+      "authorName": "Om Aya",
+      "commentCount": 15,
+      "profileUrl": "https://www.facebook.com/om.aya.703044?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1Xzg1MzU5MDg1NDUwNzYyNQ%3D%3D&__tn__=R"
+    },
+    {
+      "rank": 17,
+      "authorId": "rina.lamei",
+      "authorName": "Rina Lamei",
+      "commentCount": 14,
+      "profileUrl": "https://www.facebook.com/rina.lamei?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwMzIzODI2Mjk4MTY5MjI%3D&__tn__=R"
+    },
+    {
+      "rank": 18,
+      "authorId": "malak.bahgat.fouda",
+      "authorName": "Malak Bahgat Fouda",
+      "commentCount": 12,
+      "profileUrl": "https://www.facebook.com/malak.bahgat.fouda?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIyNzM1MTUzMjM0MDQ0MzE%3D&__tn__=R"
+    },
+    {
+      "rank": 19,
+      "authorId": "hagar.sameeh.2025",
+      "authorName": "Hagar Sameeh",
+      "commentCount": 11,
+      "profileUrl": "https://www.facebook.com/hagar.sameeh.2025?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3ODc3OTU2MTI1NzE0NTE%3D&__tn__=R"
+    },
+    {
+      "rank": 20,
+      "authorId": "eman.hagag.943701",
+      "authorName": "Eman Hagag",
+      "commentCount": 10,
+      "profileUrl": "https://www.facebook.com/eman.hagag.943701?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNDA1MjM0OTIxODIyMjM%3D&__tn__=R"
+    },
+    {
+      "rank": 21,
+      "authorId": "hadeer.emad.538371",
+      "authorName": "Hadeer Emad",
+      "commentCount": 10,
+      "profileUrl": "https://www.facebook.com/hadeer.emad.538371?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIyMzg1OTU5NzAyNTY5MjI%3D&__tn__=R"
+    },
+    {
+      "rank": 22,
+      "authorId": "amira.holayiel",
+      "authorName": "Amira Holayiel",
+      "commentCount": 9,
+      "profileUrl": "https://www.facebook.com/amira.holayiel?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNjA4NTk1ODI4NzMzODA%3D&__tn__=R"
+    },
+    {
+      "rank": 23,
+      "authorId": "DoaaAbdo46",
+      "authorName": "Doaa Hafez",
+      "commentCount": 9,
+      "profileUrl": "https://www.facebook.com/DoaaAbdo46?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzgxMDU2NTE1MjExMzgyMw%3D%3D&__tn__=R"
+    },
+    {
+      "rank": 24,
+      "authorId": "61572573582329",
+      "authorName": "Lamiyah Islam",
+      "commentCount": 9,
+      "profileUrl": "https://www.facebook.com/profile.php?id=61572573582329&comment_id=Y29tbWVudDoxNTc2NjI2OTczODE2MDkyXzIyMzM1NDU0OTA4MTA2Mzk%3D&__tn__=R"
+    },
+    {
+      "rank": 25,
+      "authorId": "naglaa.ramadan.81226",
+      "authorName": "Naglaa Ramadan",
+      "commentCount": 8,
+      "profileUrl": "https://www.facebook.com/naglaa.ramadan.81226?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE4MDAyNjM0MTA5NjY4MTM%3D&__tn__=R"
+    },
+    {
+      "rank": 26,
+      "authorId": "61579950763877",
+      "authorName": "احمد وايان علاء",
+      "commentCount": 7,
+      "profileUrl": "https://www.facebook.com/profile.php?id=61579950763877&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3ODQ3ODUzOTk2MDU1NzQ%3D&__tn__=R"
+    },
+    {
+      "rank": 27,
+      "authorId": "mlk.mhmd.982002",
+      "authorName": "ملك محمد",
+      "commentCount": 7,
+      "profileUrl": "https://www.facebook.com/mlk.mhmd.982002?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE5MTg0NTgxNTkxMTEwNTM%3D&__tn__=R"
+    },
+    {
+      "rank": 28,
+      "authorId": "am.hatm.warwy",
+      "authorName": "ام حاتم وأروي",
+      "commentCount": 7,
+      "profileUrl": "https://www.facebook.com/am.hatm.warwy?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzkzMDIxNjU0NjgwODA2Mg%3D%3D&__tn__=R"
+    },
+    {
+      "rank": 29,
+      "authorId": "amal.bhamad.3",
+      "authorName": "Aml B Hamad",
+      "commentCount": 7,
+      "profileUrl": "https://www.facebook.com/amal.bhamad.3?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE0Mjk0OTQ4MjU2NjE1Njg%3D&__tn__=R"
+    },
+    {
+      "rank": 30,
+      "authorId": "princess.al.princess.al.2025",
+      "authorName": "Princess Al Princess Al",
+      "commentCount": 7,
+      "profileUrl": "https://www.facebook.com/princess.al.princess.al.2025?comment_id=Y29tbWVudDoxNTY1NjkyNDQ0OTA5NTQ1XzI5MDkwNjcyMzk0NDIwMzM%3D&__tn__=R"
+    }
+  ],
+  "allComments": [
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية \nلايك وكومنت وشير ومنشني لحبايبك اللي لسه هيشتروا ويجهزوا من مول السعد لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية لايك وكومنت وشير ومنشني لحبايبك اللي لسه هيشتروا ويجهزوا من مول السعد",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3MTMzMTEzNDMyNTczNzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.130Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية \nلايك وكومنت وشير وم... عرض المزيد لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية لايك وكومنت وشير وم... عرض المزيد",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NjM5MjE2NTU0NjYwMTQ%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.130Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية \nلايك وكومنت وشير ومنشني لحبايبك اللي لسه هيشتروا ويجهزوا من مول السعد لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية لايك وكومنت وشير ومنشني لحبايبك اللي لسه هيشتروا ويجهزوا من مول السعد",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2NjU3MDIyNjc4MzI5NjI%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية \nلايك وكومنت وشير وم... عرض المزيد لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية لايك وكومنت وشير وم... عرض المزيد",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE0MjE0Mzc3ODY1NDYyMzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي اختيار عملي وانيق لكل بيت \nحافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد اختيار عملي وانيق لكل بيت حافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد GOOGLE.COM مول السعد · El-Reyad, Kafr El-Sheikh Governorate",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIwNzg1MjExNjYwODc0ODE%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي اختيار عملي وانيق لكل بيت \nحافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد اختيار عملي وانيق لكل بيت حافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد GOOGLE.COM مول السعد · El-Reyad, Kafr El-Sheikh Governorate",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMxNzY4OTIwMDYwMzM1MTI%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي اختيار عملي وانيق لكل بيت \nحافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد اختيار عملي وانيق لكل بيت حافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد GOOGLE.COM مول السعد · El-Reyad, Kafr El-Sheikh Governorate",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzMzgwMzg4NTM2MDczMjM%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية \nلايك وكومنت وشير وم... عرض المزيد لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية لايك وكومنت وشير وم... عرض المزيد",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE0MTY1MTI1NTM3MDI4NjI%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي اختيار عملي وانيق لكل بيت \nحافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد اختيار عملي وانيق لكل بيت حافظة سجاد بطباعة 7D ...خياطة متينة عملية علي الاطراف وظهر دودتس مانع الانزلاق\n... عرض المزيد GOOGLE.COM مول السعد · El-Reyad, Kafr El-Sheikh Governorate",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwMjMyNTYzMDM5MTgxMTU%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "AlsaadMall22",
+      "authorName": "مول السعد - Al-Saad Mall",
+      "text": "4 ي لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية \nلايك وكومنت وشير وم... عرض المزيد لكل عملائنا اللي دايماً مشرفينا انتم سر نجاحنا وإن شاء الله اتنين من عملائنا يكسبوا حافظات سجاد 7D هدية لايك وكومنت وشير وم... عرض المزيد",
+      "commentUrl": "https://www.facebook.com/AlsaadMall22?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxMzI0MzkzMjA2NDM0NjY%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "hasnaa.metwally.7",
+      "authorName": "Hasnaa Metwally",
+      "text": "4 ي",
+      "commentUrl": "https://www.facebook.com/hasnaa.metwally.7?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2MTA4MzE5NDcwOTA0NDU%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "hasnaa.metwally.7",
+      "authorName": "Hasnaa Metwally",
+      "text": "4 ي ماشاء الله اسعاركم جميله",
+      "commentUrl": "https://www.facebook.com/hasnaa.metwally.7?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNTI1NTk5MzQzNTI1MDc%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "100029874844401",
+      "authorName": "انور حمد",
+      "text": "4 ي ما شاء الله تبارك الرحمن الرحيم بالتوفيق دائما يا رب العالمين",
+      "commentUrl": "https://www.facebook.com/profile.php?id=100029874844401&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIyNTI0MDU2NTg4NzgxODM%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "zainab.e.barkat",
+      "authorName": "Zainab E. Barkat",
+      "text": "4 ي ماشاء الله تحفه كسبوني واحده 2*3",
+      "commentUrl": "https://www.facebook.com/zainab.e.barkat?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzODc5MDQwMTAxNjQwNzg%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "sanaa.sameh.52",
+      "authorName": "Sanaa Elsayed",
+      "text": "4 ي GIPHY",
+      "commentUrl": "https://www.facebook.com/sanaa.sameh.52?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzExMDU3OTYyNTE5NTk2Nzc%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "am.adm.al.yswy",
+      "authorName": "ام ادم العيسوي",
+      "text": "4 ي 180 في 2 متر و 80",
+      "commentUrl": "https://www.facebook.com/am.adm.al.yswy?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEyMDYwMTIyOTU5Mzc5OTk%3D&__tn__=R",
+      "date": "2026-08-27T20:52:55.131Z"
+    },
+    {
+      "authorId": "om.aya.703044",
+      "authorName": "Om Aya",
+      "text": "٥ س طب كسبوني بالله عليكم انا عايزه سجاده",
+      "commentUrl": "https://www.facebook.com/om.aya.703044?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1Xzg1MzU5MDg1NDUwNzYyNQ%3D%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "61579950763877",
+      "authorName": "احمد وايان علاء",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61579950763877&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3ODQ3ODUzOTk2MDU1NzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "hana.sheha.84065",
+      "authorName": "Hana Sheha",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/hana.sheha.84065?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE4MTQ1ODI4ODYyMjI3Njk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "sara.khaled.333200",
+      "authorName": "Sara Khaled",
+      "text": "4 ي Om Eman",
+      "commentUrl": "https://www.facebook.com/sara.khaled.333200?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI5NTc1ODUzODEyNjY4MjU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "noura.fhmy.7",
+      "authorName": "Noura Fhmy",
+      "text": "٥ س اخدت من عندكم قبل كدا لمامتي وبجد تحفه",
+      "commentUrl": "https://www.facebook.com/noura.fhmy.7?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwOTY4ODkwMDYxMTMxMTg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "om.sara.saleh.2025",
+      "authorName": "Om Sara Saleh",
+      "text": "4 ي جميل جداً جداً\nماشاءالله تبارك الله... عرض المزيد جميل جداً جداً ماشاءالله تبارك الله... عرض المزيد",
+      "commentUrl": "https://www.facebook.com/om.sara.saleh.2025?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2MTkzODU3NTMzMDYwMjQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "rwna.adl.650014",
+      "authorName": "Rona Adle",
+      "text": "٩ س",
+      "commentUrl": "https://www.facebook.com/rwna.adl.650014?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1ODkxNzQ4NzI5NTU5MzA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "am.rhmt.782449",
+      "authorName": "ام رحمة",
+      "text": "1ي ماشاءالله تبارك الله",
+      "commentUrl": "https://www.facebook.com/am.rhmt.782449?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEyMzY5Nzg5MTE5MDMzMTE%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "am.rhf.757563",
+      "authorName": "ام رهف",
+      "text": "3 ي جميل جداً جداً",
+      "commentUrl": "https://www.facebook.com/am.rhf.757563?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwOTc4MTQ0NzMxOTg0NzY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "ana.khtiept.siku",
+      "authorName": "Ana Khtiept Siku",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/ana.khtiept.siku?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNDg4NDgzMjgwMjQ2OTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:00.552Z"
+    },
+    {
+      "authorId": "61591567194516",
+      "authorName": "Om Rafaat",
+      "text": "5 ي مول السعد وش السعد",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61591567194516&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE5NjUxMjUwNDc3NTUyMTc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "100066335426615",
+      "authorName": "ام محمد مجدي بدره",
+      "text": "4 ي المكان فين",
+      "commentUrl": "https://www.facebook.com/profile.php?id=100066335426615&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNzQ3MDg3Njc5NjkxMzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "mlk.mhmd.982002",
+      "authorName": "ملك محمد",
+      "text": "5 ي ربنا يوسع عليكم ويرزقك يادكتور احلي معامله",
+      "commentUrl": "https://www.facebook.com/mlk.mhmd.982002?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE5MTg0NTgxNTkxMTEwNTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "zhrt.mtalqt.117279",
+      "authorName": "زهرة متألقة",
+      "text": "4 ي انا توقعت صح في المجات ومكسبتش يارب اكسب المره دي",
+      "commentUrl": "https://www.facebook.com/zhrt.mtalqt.117279?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2MjE4ODU3MzMwNjU1OTA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "mona.emey.7",
+      "authorName": "Eman Rateb",
+      "text": "4 ي Fatima Zakria راجية الجنان",
+      "commentUrl": "https://www.facebook.com/mona.emey.7?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NDI5ODM5NDA5MTYyODc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "walaa.reda.9235",
+      "authorName": "Walaa Reda",
+      "text": "4 ي الاسعار",
+      "commentUrl": "https://www.facebook.com/walaa.reda.9235?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwODczNDUyOTcxNDM5Njg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "d.a.mhrws.aln.na.y",
+      "authorName": "دعـــاء مـحــروس النـعـنـاعــي",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/d.a.mhrws.aln.na.y?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE0OTYwODA5NzI1NDc5OTY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "mahmoud.abdalkadr.969927",
+      "authorName": "Mahmoud Abdalkadr",
+      "text": "4 ي بكام",
+      "commentUrl": "https://www.facebook.com/mahmoud.abdalkadr.969927?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NzYxOTYyNTA1NDU3Njg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.017Z"
+    },
+    {
+      "authorId": "hbyb.allh.560290",
+      "authorName": "حبيب الله",
+      "text": "5 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/hbyb.allh.560290?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3NTM1NDU5ODIyMTY1NzY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.018Z"
+    },
+    {
+      "authorId": "am.ahmd.s.fan.15611",
+      "authorName": "ام احمد سعفان",
+      "text": "4 ي مشاءالله",
+      "commentUrl": "https://www.facebook.com/am.ahmd.s.fan.15611?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxNzU1NjM1ODAwMzQ2NDU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:07.018Z"
+    },
+    {
+      "authorId": "61590812849105",
+      "authorName": "عبدالله عبدالله",
+      "text": "4 ي ربنا يبارك ويرزقكم",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61590812849105&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNTU1ODk5OTY1NjMwMDM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.910Z"
+    },
+    {
+      "authorId": "khdyjt.rmdan.212371",
+      "authorName": "خديجة رمضان",
+      "text": "4 ي المكان فين لو سمحت",
+      "commentUrl": "https://www.facebook.com/khdyjt.rmdan.212371?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NjUxNDQyNzE3MzY3OTY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "rina.lamei",
+      "authorName": "Rina Lamei",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/rina.lamei?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwMzIzODI2Mjk4MTY5MjI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "kholoud.mohammed.9699523",
+      "authorName": "Kholoud Mohammed",
+      "text": "4 ي GIPHY",
+      "commentUrl": "https://www.facebook.com/kholoud.mohammed.9699523?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NTg1NjI5MjI0Mzg3MTE%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "amany.rshad.939835",
+      "authorName": "اماني رشاد",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/amany.rshad.939835?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2MjU3MjU1NjI0OTcxOTA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "100077597533962",
+      "authorName": "HaNin Abdelbast",
+      "text": "5 ي تحفه بجد",
+      "commentUrl": "https://www.facebook.com/profile.php?id=100077597533962&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNzM2NjE4NTgxOTAwNzg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "61576725868125",
+      "authorName": "Màriam El Alfy",
+      "text": "4 ي Nermen Taha ام محمد طه",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61576725868125&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MDMwMjA2NzU5OTY4NzY5&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "fatmam.salim.3",
+      "authorName": "Fátmà M Sálèm",
+      "text": "4 ي",
+      "commentUrl": "https://www.facebook.com/fatmam.salim.3?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2NDI0NjYwOTc4ODY0NTc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "asamt.alnjar.648159",
+      "authorName": "أسامة النجار",
+      "text": "4 ي البراء باشا منور الدنيا",
+      "commentUrl": "https://www.facebook.com/asamt.alnjar.648159?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2MjM4MDIzODI2ODEzNzc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "am.yzn.925034",
+      "authorName": "ام يزن",
+      "text": "5 ي ماشاءالله",
+      "commentUrl": "https://www.facebook.com/am.yzn.925034?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2NzEyMjQ0NDM5NDc2MzA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "61588011533884",
+      "authorName": "ندي محمد",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61588011533884&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxMzU3Njg4NjM4MTkwODY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "wafaa.amer.96558",
+      "authorName": "Wafaa Amer",
+      "text": "4 ي كسبوني",
+      "commentUrl": "https://www.facebook.com/wafaa.amer.96558?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2MTk4NjQ1Njk4NTI1NjY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "mriam.ehab.79",
+      "authorName": "Mriam Ehab",
+      "text": "5 ي GSTATIC.COM www.gstatic.com",
+      "commentUrl": "https://www.facebook.com/mriam.ehab.79?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwMzQwNjQ5MTYwOTQzNTk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "om.sif.asil.nooh",
+      "authorName": "Om Sif Asil Nooh",
+      "text": "4 ي جميل",
+      "commentUrl": "https://www.facebook.com/om.sif.asil.nooh?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1MzYzMjgxMDY4ODQwOTY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "eman.hagag.943701",
+      "authorName": "Eman Hagag",
+      "text": "4 ي .",
+      "commentUrl": "https://www.facebook.com/eman.hagag.943701?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNDA1MjM0OTIxODIyMjM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "samar.yehya.sakr",
+      "authorName": "Samar Yehya Sakr",
+      "text": "4 ي",
+      "commentUrl": "https://www.facebook.com/samar.yehya.sakr?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1OTgwMzgzNTUyOTI4NjY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "61584214265366",
+      "authorName": "Om Rahaf W Yaseen",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61584214265366&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxMzgzMjYxODY3MTcyNDg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "61590365233458",
+      "authorName": "Hanaa Moner",
+      "text": "4 ي نفسي اكسب مره",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61590365233458&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1NTkwMjA2NzExOTY3NzI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "om.aseel.328517",
+      "authorName": "OM Aseel",
+      "text": "4 ي",
+      "commentUrl": "https://www.facebook.com/om.aseel.328517?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNDgzNTg0MzM5NDYzNDc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "amira.m.elzeiny",
+      "authorName": "Amira M Elzeiny",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/amira.m.elzeiny?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2NjQzODc2MDIzNTQ3MTU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:12.911Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "4 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE0MDI5MTk0NTg2MDUyMTU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "maryam.mahmoud.448521",
+      "authorName": "Maryam Mahmoud",
+      "text": "5 ي كسبوني معاكم",
+      "commentUrl": "https://www.facebook.com/maryam.mahmoud.448521?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNjk2MTYyNTIwMjMxNTQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "zainab.e.barkat",
+      "authorName": "Zainab E. Barkat",
+      "text": "4 ي كسبووووووووني",
+      "commentUrl": "https://www.facebook.com/zainab.e.barkat?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNzQzNTM0MTgxNjc2NTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "aya.mohammed.6807",
+      "authorName": "Aya Mohammed",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/aya.mohammed.6807?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzOTk4Nzg4NjIxMDU0NTc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxMzU4OTQwNjAzNjQ3MTQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "ayt.smyh.784304",
+      "authorName": "آية سميح",
+      "text": "4 ي GIPHY",
+      "commentUrl": "https://www.facebook.com/ayt.smyh.784304?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NDc5MjE1NTczNzg3OTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "amon.rmdan",
+      "authorName": "Zezo Rmdan",
+      "text": "5 ي GIPHY",
+      "commentUrl": "https://www.facebook.com/amon.rmdan?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMxMjE5MTAwNjQ4NDMwNzY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "amira.holayiel",
+      "authorName": "Amira Holayiel",
+      "text": "٧ س",
+      "commentUrl": "https://www.facebook.com/amira.holayiel?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNjA4NTk1ODI4NzMzODA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "61586164321608",
+      "authorName": "نـــــــٌوُر آلَهدى",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61586164321608&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxNzgzNTgwNzMwOTUwMDI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "am.hatm.warwy",
+      "authorName": "ام حاتم وأروي",
+      "text": "5 ي",
+      "commentUrl": "https://www.facebook.com/am.hatm.warwy?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzkzMDIxNjU0NjgwODA2Mg%3D%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "naglaa.ramadan.81226",
+      "authorName": "Naglaa Ramadan",
+      "text": "4 ي",
+      "commentUrl": "https://www.facebook.com/naglaa.ramadan.81226?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE4MDAyNjM0MTA5NjY4MTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "donia.mostafa.619703",
+      "authorName": "Donia Mostafa",
+      "text": "4 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/donia.mostafa.619703?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE3NDkxNTA0MzI4OTc3Mjc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "rwna.adl.650014",
+      "authorName": "Rona Adle",
+      "text": "٩ س",
+      "commentUrl": "https://www.facebook.com/rwna.adl.650014?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxNzczNzU0MTI4MTQ5NTE%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "awlady.hyaty.426572",
+      "authorName": "اولادى حياتى",
+      "text": "2 ي مشاء الله",
+      "commentUrl": "https://www.facebook.com/awlady.hyaty.426572?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNjU2MzAzNTI3MjI1NzU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "61588146914722",
+      "authorName": "ورده البستان البستان",
+      "text": "3 ي تحفه بجد",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61588146914722&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxNDc1NTQ3MDYxMTYzNzU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "61590381825160",
+      "authorName": "Om Noreen W Noran",
+      "text": "3 ي مشاء الله",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61590381825160&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNDkyNDcyMjcxOTM0OTY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "khdyjt.rmdan.212371",
+      "authorName": "خديجة رمضان",
+      "text": "4 ي اللهم بارك",
+      "commentUrl": "https://www.facebook.com/khdyjt.rmdan.212371?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3OTE4NzMwMDM0NDQ1NDgz&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "atiiat.zayan",
+      "authorName": "Atiiat Zayan",
+      "text": "4 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/atiiat.zayan?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1Xzg5MTE2NTI0NzExNTcwOQ%3D%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "zhrt.allwts.930297",
+      "authorName": "زهرة اللوتس",
+      "text": "4 ي ما شاء الله",
+      "commentUrl": "https://www.facebook.com/zhrt.allwts.930297?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1Xzk0NDE2Mjk0MjA3ODkyOQ%3D%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "61590812849105",
+      "authorName": "عبدالله عبدالله",
+      "text": "4 ي مقاس متر في ٥ بكام",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61590812849105&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNDQ0MTU3Nzg1ODM3NzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:17.530Z"
+    },
+    {
+      "authorId": "100012989199617",
+      "authorName": "دعاء منير",
+      "text": "4 ي اللهم صل وسلم وبارك على سيدنا محمد وعلى اله وصحبه وسلم",
+      "commentUrl": "https://www.facebook.com/profile.php?id=100012989199617&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE2OTczNDczNTc5ODgwODM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "100012989199617",
+      "authorName": "دعاء منير",
+      "text": "4 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/profile.php?id=100012989199617&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1OTk1MTIxNzM4NTM1ODQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "doha.hasab.enaby",
+      "authorName": "Doha Hasab Enaby",
+      "text": "4 ي بجد تحفه عن تجربه",
+      "commentUrl": "https://www.facebook.com/doha.hasab.enaby?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE1NDI1MDE3MDcwMDQ2NTk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "doha.hasab.enaby",
+      "authorName": "Doha Hasab Enaby",
+      "text": "4 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/doha.hasab.enaby?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNzU3NjY1MjIwNjEyNjc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "mlk.mhmd.982002",
+      "authorName": "ملك محمد",
+      "text": "5 ي انا عاوزه الا فيها قلب دي",
+      "commentUrl": "https://www.facebook.com/mlk.mhmd.982002?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIxMzQxMTE3OTM4NzE4MDE%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "61575136871388",
+      "authorName": "Esraa Abdelrohman",
+      "text": "5 ي ما شاء الله",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61575136871388&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzE0MDk1NDkxMDEwODQwNjA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "100077597533962",
+      "authorName": "HaNin Abdelbast",
+      "text": "5 ي مشاء الله",
+      "commentUrl": "https://www.facebook.com/profile.php?id=100077597533962&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIwNDU3ODE0ODYxNDk3MzY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "61584214265366",
+      "authorName": "Om Rahaf W Yaseen",
+      "text": "5 ي حلويييين جدا مجرباهم من عندكم ربنا يبارك",
+      "commentUrl": "https://www.facebook.com/profile.php?id=61584214265366&comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1Xzk0NDQ2NTEyNzkzODAyNg%3D%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "hadeer.emad.538371",
+      "authorName": "Hadeer Emad",
+      "text": "5 ي يارب يكون لينا نصيب",
+      "commentUrl": "https://www.facebook.com/hadeer.emad.538371?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIyMzg1OTU5NzAyNTY5MjI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "hadeer.emad.538371",
+      "authorName": "Hadeer Emad",
+      "text": "5 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/hadeer.emad.538371?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEzNjU0MjI5MjU2NTgzNjU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:20.914Z"
+    },
+    {
+      "authorId": "amany.rshad.939835",
+      "authorName": "اماني رشاد",
+      "text": "5 ي ما شاء الله",
+      "commentUrl": "https://www.facebook.com/amany.rshad.939835?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1NzgxNzQzMDU5NTAwNDI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "DoaaAbdo46",
+      "authorName": "Doaa Hafez",
+      "text": "5 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/DoaaAbdo46?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzgxMDU2NTE1MjExMzgyMw%3D%3D&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "am.malk.ayhab",
+      "authorName": "ام مالك ايهاب",
+      "text": "4 ي ماشاء الله",
+      "commentUrl": "https://www.facebook.com/am.malk.ayhab?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNzMwNzI3NDUxMzQ0MTU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "5 ي اكتر عميله متفاعله",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzEwNTcyNjA3OTcwNDg2ODY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4OTQyMDcxMDcyMDQ3OTAy&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4OTI0Mjk0NDAwNDkxOTQ3&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4NzQwMzI3MDI4ODg1NjMz&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "om.aya.703044",
+      "authorName": "Om Aya",
+      "text": "٥ س",
+      "commentUrl": "https://www.facebook.com/om.aya.703044?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4NDg5NTU0NzE3MzE2MTQz&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "rwna.adl.650014",
+      "authorName": "Rona Adle",
+      "text": "٩ س",
+      "commentUrl": "https://www.facebook.com/rwna.adl.650014?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4NDUxMDg1MjM0NTIxNDE1&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4NDA5NTYxNDk1MzM0MTg4&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MzA0NTg2NDE1ODk1Njk0&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "am.hatm.warwy",
+      "authorName": "ام حاتم وأروي",
+      "text": "٩ س",
+      "commentUrl": "https://www.facebook.com/am.hatm.warwy?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MjgwNjc3OTk0ODk1MjAz&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4Mjc3MTgwOTUxOTA3OTQ2&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠٠٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4Mjc1MDU1Mzc1NDQ0MDk2&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MjYwNjk2NjUwMjEzMDc0&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MjUzNjIzNjY0MjQ4NjQz&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MjQwNzY4NzM4OTIxNTIy&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MTcwMTY4MzM5MzAwNTMx&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MTIwNjQ3OTI0MjExNDk5&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "om.aya.703044",
+      "authorName": "Om Aya",
+      "text": "٥ س",
+      "commentUrl": "https://www.facebook.com/om.aya.703044?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MDYwNDYzMzgzNjA0ODk1&__tn__=R",
+      "date": "2026-08-27T20:53:24.294Z"
+    },
+    {
+      "authorId": "amira.m.elzeiny",
+      "authorName": "Amira M Elzeiny",
+      "text": "٨ س",
+      "commentUrl": "https://www.facebook.com/amira.m.elzeiny?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MDU3OTE5OTgzODM1OTg0&__tn__=R",
+      "date": "2026-08-27T20:53:28.714Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MDQ3MjYwNDI0OTAyMDEz&__tn__=R",
+      "date": "2026-08-27T20:53:28.714Z"
+    },
+    {
+      "authorId": "amira.holayiel",
+      "authorName": "Amira Holayiel",
+      "text": "٧ س",
+      "commentUrl": "https://www.facebook.com/amira.holayiel?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MDQwNDQyMjk1NjEwMDgx&__tn__=R",
+      "date": "2026-08-27T20:53:28.714Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4MDI0OTkwOTU3MTcwMjgy&__tn__=R",
+      "date": "2026-08-27T20:53:28.714Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3OTU4MzI3NDczODMwMTY5&__tn__=R",
+      "date": "2026-08-27T20:53:28.714Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3OTQ3ODk4Njc4MTkzNDY5&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "aya.mohammed.6807",
+      "authorName": "Aya Mohammed",
+      "text": "١٨ س",
+      "commentUrl": "https://www.facebook.com/aya.mohammed.6807?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3ODkzOTIxOTgwMjI4NDM3&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3ODY4Mzc0MDg2MTY0NTEw&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3NzI0NTM3MDUzODg1MjI3&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2OTMwMjYzOTczMjUwMDYw&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "amira.m.elzeiny",
+      "authorName": "Amira M Elzeiny",
+      "text": "٨ س",
+      "commentUrl": "https://www.facebook.com/amira.m.elzeiny?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2NjcwOTU1MDIyNjAyMzgz&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "2 ي ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ3NTgyNzk0MzEwNzUyNjQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "amira.holayiel",
+      "authorName": "Amira Holayiel",
+      "text": "٧ س",
+      "commentUrl": "https://www.facebook.com/amira.holayiel?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ2ODU3OTA0ODUwMjg5MTU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ2NTA4OTMzMDE4MzQxNjA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ2MjkyNzU4MjA3MjU0NDI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ2MDE2NzAzMDMzOTg1MTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "2 ي ٠٠٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ1ODE0ODU2NzIxMzkyNTc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "2 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ1NzgwMzczODkwOTIwNjk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ1Mzk1NjkwMzI5ODIwOTI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "2 ي ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ1Mzg2ODU4OTk3MTExMjI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:28.715Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ1MDI2NjY1OTY2Nzg5Mjg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ0NzQxMzUyNTk1MDI5MDk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ0NDU3MzIxMjU2OTIyMzU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ0MzUyOTE4MDM0NTUwNzA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQ0MDI1ODQwMzk5OTEyNDQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQzMzE3NDM1MzcxMzYwNjU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQzMjExMTQ3MzQ4NjczNDU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "amira.m.elzeiny",
+      "authorName": "Amira M Elzeiny",
+      "text": "٨ س",
+      "commentUrl": "https://www.facebook.com/amira.m.elzeiny?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQyODMxMTQzMjUzMTI3MzM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzQyMTMxNTE2ODg5Nzc0NjI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM5OTI0MDE0ODc3MzExNjg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:32.427Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM4Mzk0MjAzNTI4NjYxOTQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM3MzUyNzM2Njk5NjIwNjU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM2OTAxNjQzMDQ0NjQzOTc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM2OTAwMjc3NDc3OTYwMTc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM2MzMyMTQ4OTY4NTk1NTI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM1MzE1OTkzODM2ODMyOTc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "aya.mohammed.6807",
+      "authorName": "Aya Mohammed",
+      "text": "2 ي",
+      "commentUrl": "https://www.facebook.com/aya.mohammed.6807?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM1MDUxMzE5NTI5OTY3Mjg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM0ODc0NjA3ODQ3Njc2MjY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzM0ODEwNjY2NDIwNjQ1NDU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMzOTYxOTI2NTA1ODQyNDg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "aya.mohammed.6807",
+      "authorName": "Aya Mohammed",
+      "text": "2 ي",
+      "commentUrl": "https://www.facebook.com/aya.mohammed.6807?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMzMTM1MjAwMTg4NDA0NTA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "noura.fhmy.7",
+      "authorName": "Noura Fhmy",
+      "text": "٥ س",
+      "commentUrl": "https://www.facebook.com/noura.fhmy.7?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMxODcxNDY3MjE0ODU2MzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMxMzg0NjI1Njk2OTY2NjA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "om.aya.703044",
+      "authorName": "Om Aya",
+      "text": "٥ س",
+      "commentUrl": "https://www.facebook.com/om.aya.703044?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMxMjA1MTY1MDE2MTY5Njk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMwNzMzNTA3ODk3MjMzMjY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMwNTk4NjA5Mzc2Nzg4NzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.777Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMwNDY2MDIyOTkwMTA2OTY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzMwMjQ0MDMwMjc5MjM1Mzg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "rwna.adl.650014",
+      "authorName": "Rona Adle",
+      "text": "٩ س",
+      "commentUrl": "https://www.facebook.com/rwna.adl.650014?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI5NzkzNTE1ODkwNjgxNTA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI5MzQ1MDY5NzAyMzQzNDc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI5MTcwNDM2OTg2NTY0ODU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4OTc1ODg2MDM5Mzg5NjM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4ODI3MjU4MTg3MzE5NTU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI4NzI3OTQwNzY0Mjg0NjM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3MTk2Mzk3ODE4MjA4MDM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "2 ي ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI3MTU1NDYyNzg4MzkxMTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2NzA5OTQ3NDMzMTc1ODY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "2 ي GIPHY",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2NjczMjM2NTM2NjU0NDI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2NTI5NDg5MTUxMjI1NjU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2NDExNzU5MTYzMzY0MjA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:36.778Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2MzM2MjExNTAzODg0NDk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "rwna.adl.650014",
+      "authorName": "Rona Adle",
+      "text": "٩ س",
+      "commentUrl": "https://www.facebook.com/rwna.adl.650014?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2MzMyNjM2OTA0MDk4NjU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "am.hatm.warwy",
+      "authorName": "ام حاتم وأروي",
+      "text": "٩ س تبارك الله اللهم بارك",
+      "commentUrl": "https://www.facebook.com/am.hatm.warwy?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2Mjg1MzA5OTQyNzM4MTU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "2 ي ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI2Mjc5NzUxMjc2MjI0MDg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1OTU4NDg2Mzc1OTcxNjY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1OTQwNzMzNjQ0NDA0MDY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1ODU1NjE0MjUyMjE3Njg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1ODUzMTA0MDE5MDU5MTI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1ODQyMTAyOTIwMzY4NDc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1NzYxMzgxMDI4MTU2MDU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1Njk0MjI1ODAxNzAxMzE%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1NjQ5NTkzNTA2ODg3MzA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "amira.holayiel",
+      "authorName": "Amira Holayiel",
+      "text": "٧ س",
+      "commentUrl": "https://www.facebook.com/amira.holayiel?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1NTM1MDIyMzUxNjM0OTY%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1NTMzMjM2NjUxNjAxNDM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1NTA0MzM1MjUzOTU1NjU%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1MzQxODQyNjM3NTUwMjM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1MTUyODg2MTg4OTkwMzk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI1MDk2MTE3MDYyMTcyNjc%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.499Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI0ODIxNDc5Njg5NTQyMDk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.500Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI0Nzc2ODIwNjk0MjM3NjI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:41.500Z"
+    },
+    {
+      "authorId": "amira.m.elzeiny",
+      "authorName": "Amira M Elzeiny",
+      "text": "٨ س",
+      "commentUrl": "https://www.facebook.com/amira.m.elzeiny?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI0NTI4NzEzNDg1MzUwOTM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI0NTIyMzkzNzE5MzAwNzE%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠٠٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI0Mzk0OTExMTk4NzI2NTI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzI0MDE2MzQ2NTcyOTI1NjQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzOTQ2MDE2OTA5NDgyNzg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNzM1OTg2NTM0MTA0MzI%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNzE0MzkyMjcwMDMxOTQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "2 ي ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNjgwMjY5OTQwMDMwNjM%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.533Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "2 ي ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNTg4NzY0ODQ2NTE2MTk%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.534Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNTU4NDgwNjQ5NTE0Njg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.534Z"
+    },
+    {
+      "authorId": "abw.mr.khdr.50360",
+      "authorName": "ابوعمر خضر",
+      "text": "3 ي",
+      "commentUrl": "https://www.facebook.com/abw.mr.khdr.50360?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNTA1ODU1MDU3MTM5MDg%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.534Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNDk4ODI0MzI0OTk5MzQ%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.534Z"
+    },
+    {
+      "authorId": "nermeen.rohaym",
+      "authorName": "Nermeen Rohaym",
+      "text": "٩ س ٠",
+      "commentUrl": "https://www.facebook.com/nermeen.rohaym?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzNDM5NjU4MjMxODg3MTA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.534Z"
+    },
+    {
+      "authorId": "om.malak.hamada.601248",
+      "authorName": "OM Malak Mohammed",
+      "text": "٢ س",
+      "commentUrl": "https://www.facebook.com/om.malak.hamada.601248?comment_id=Y29tbWVudDoxNzI4MjM3MDUyNjQzMjg1XzIzMTUzNDUzMzkyMzY1MjA%3D&__tn__=R",
+      "date": "2026-08-27T20:53:46.534Z"
+    }
+  ]
+}

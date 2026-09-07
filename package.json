@@ -1,0 +1,32 @@
+{
+  "name": "facebook-comment-scraper-giveaway",
+  "version": "1.0.0",
+  "description": "Robust Facebook Reel & Post comment scraper and giveaway leaderboard analyzer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --help"
+  },
+  "keywords": [
+    "facebook",
+    "scraper",
+    "giveaway",
+    "comments",
+    "playwright",
+    "apify"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2.11.3",
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.5",
+    "commander": "^12.1.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.46.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
